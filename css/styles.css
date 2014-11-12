@@ -246,3 +246,21 @@ body {
   padding-top: 20px;
 /*   width: 400px; */
 }
+/***************************/
+
+.labs-wrapper {
+    background-color: #1D1D1D;
+	vertical-align: middle;
+	padding-top: 100px;
+}
+
+.labs-container {
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 20px;
+}
+
+.lab-link {
+    font-size: 25px;
+    text-decoration: underline;
+}
