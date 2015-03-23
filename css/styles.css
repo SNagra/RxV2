@@ -280,3 +280,9 @@ body {
 	width: 200px;
 	margin-top: -20;
 }
+
+/**************Provider Status****************/
+.ps-list {
+    text-align: left;
+
+}
