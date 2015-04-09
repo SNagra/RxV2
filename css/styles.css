@@ -296,3 +296,15 @@ body {
     text-align: left;
 
 }
+
+.ps-wrapper {
+	background-color: rgb(18, 128, 205);
+	vertical-align: middle;
+	padding-top: 100px;	
+}
+
+.ps-container {
+  	margin-right: auto;
+	margin-left: auto;	
+}
+
